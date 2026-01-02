@@ -1,6 +1,6 @@
 ## Demo
 
-![Coin Collector Demo](demo.gif)
+Demo.gif
 
 # RobloxCoinCollector by Jaden
 Beginner Roblox game project: players collect coins when they touch them. Written in Lua U.
