@@ -1,4 +1,4 @@
-# RobloxCoinCollector by Jaden
+# Simple RobloxCoinCollector by Jaden
 
 <p align="center">
   <img src="https://github.com/Jaden322/RobloxCoinCollector/raw/main/Demo.gif" width="500" />
