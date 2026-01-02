@@ -13,3 +13,4 @@ This is a beginner Roblox project of mine where players collect coins when they 
 - How to use functions and variables in Lua
 - How to handle events (Touched)
 - Debugging scripts in Roblox Studio
+https://github.com/Jaden322/RobloxCoinCollector/raw/main/Untitled%20video%20-%20Made%20with%20Clipchamp%20(1).mp4
