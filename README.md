@@ -16,4 +16,4 @@ This is a beginner Roblox project of mine where players collect coins when they 
 - How to handle events (Touched)
 - Debugging scripts in Roblox Studio
 ## Demo
-![Coin Collector Demo](Demo.gif)
+![Coin Collector Demo](https://github.com/Jaden322/RobloxCoinCollector/raw/main/Demo.gif)
