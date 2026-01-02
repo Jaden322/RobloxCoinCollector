@@ -1,5 +1,4 @@
-## Demo
-![Coin Collector Demo](Demo.gif)
+
 
 # RobloxCoinCollector by Jaden
 Beginner Roblox game project: players collect coins when they touch them. Written in Lua U.
@@ -16,3 +15,5 @@ This is a beginner Roblox project of mine where players collect coins when they 
 - How to use functions and variables in Lua
 - How to handle events (Touched)
 - Debugging scripts in Roblox Studio
+## Demo
+![Coin Collector Demo](Demo.gif)
