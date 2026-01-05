@@ -4,7 +4,7 @@
   <img src="https://github.com/Jaden322/RobloxCoinCollector/raw/main/Demo.gif" width="500" />
 </p>
 
-A Roblox game where players collect coins scattered around the map. Made in **Lua** using Roblox Studio.  
+A Roblox game where players collect coins scattered around the map. Made in **Lua** using Roblox Studio.  Inspired by the coin spawning system in the Roblox game "Murder Mystery 2"
 
 ---
 
