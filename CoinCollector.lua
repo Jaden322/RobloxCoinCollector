@@ -1,6 +1,6 @@
 -- Coin system script
 -- I made this to handle coin spawning, collection, and tracking player coins
--- Focused on making it smooth, fair (no double-collect), and visually satisfying
+-- Focused on making it smooth
 
 local coinSpawnsFolder = workspace:WaitForChild("CoinSpawners") 
 -- Folder that holds all possible coin spawn locations
@@ -21,7 +21,6 @@ local coinUpdateEvent = game.ReplicatedStorage:WaitForChild("CoinUpdate")
 -- Handles what happens when a player collects a coin
 local function onCoinCollected(coin, player)
 	-- Prevents the same coin from being collected multiple times
-	-- This also protects against lag or multiple touch events
 	if not coin.Parent or coin:GetAttribute("Collected") then return end
 
 	-- Mark coin as collected immediately (debounce)
